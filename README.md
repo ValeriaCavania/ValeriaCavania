@@ -13,6 +13,8 @@
   <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=ValeriaCavania&layout=compact&hide=Tex,VHDL,Jupyter%20Notebook&theme=dark&custom_title=Most%20Used%20Languages%20%28by%20code%20lines%29" height="170" />
 </a
 
+
+
 ### Skills
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
